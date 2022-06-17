@@ -1,0 +1,7 @@
+*.db
+*.db-*
+tmp/*.json
+3d_models/local
+*.imp_meta
+*.autosave
+*.bak

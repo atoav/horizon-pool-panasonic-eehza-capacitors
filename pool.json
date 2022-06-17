@@ -1,0 +1,10 @@
+{
+    "default_frame": "00000000-0000-0000-0000-000000000000",
+    "default_via": "00000000-0000-0000-0000-000000000000",
+    "name": "Panasonic EEHZA polarized capacitors",
+    "pools_included": [
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+    ],
+    "type": "pool",
+    "uuid": "4e745dc3-9973-4177-97f9-9a5a03062771"
+}
